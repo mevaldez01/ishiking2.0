@@ -6,3 +6,6 @@ First glimpse of the internal css style for the header and paragraph!!!
 
 
 ![More progress use of list and table to diplay information along with the color red to put emphisis on the need for water.](<Screenshot (17).png>)
+
+
+![Last section added with footer and a form](<Screenshot (18).png>)
