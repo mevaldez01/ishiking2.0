@@ -3,3 +3,6 @@ First glimpse of the internal css style for the header and paragraph!!!
 
 
 ![Added all of the hike trail photos](<Screenshot (16).png>)
+
+
+![More progress use of list and table to diplay information along with the color red to put emphisis on the need for water.](<Screenshot (17).png>)
